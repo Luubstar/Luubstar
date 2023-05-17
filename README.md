@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programmer studying at the UPV. I know how to play Java, Python and a few other things.<br><br>Fencer in my free time, when I'm not programming or playing videogames or TTRPGs.
+Programmer studying at the UPV (Universidad Politécnica de Valencia). I know how to use Java, Python and a few other things.<br><br>Fencer in my free time, when I'm not programming or playing videogames or TTRPGs.
 
 
 # 💻 Tech Stack:
